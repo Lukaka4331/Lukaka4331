@@ -6,7 +6,7 @@ preview
 
 - 📝 I regulary write articles on [https://lukaka4331.github.io/](https://lukaka4331.github.io/)
 
-- 📫 How to reach me **qe54089718@gmail.com**
+- 📫 How to reach me **zhongcenzhe0905@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
