@@ -2,8 +2,6 @@ preview
 <h1 align="center">Hi 👋, I'm Zhong Cenzhe</h1>
 <h3 align="center">A passionate deep learning learner from Feng Chia University (FCU)</h3>
 
-- 🔭 I’m currently working on **Medical Image Project**
-
 - 🌱 I’m currently learning **Deep Learning, Machine Learning, Artificial Intelligence**
 
 - 📝 I regulary write articles on [https://lukaka4331.github.io/](https://lukaka4331.github.io/)
